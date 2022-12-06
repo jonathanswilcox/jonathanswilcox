@@ -5,6 +5,8 @@
 - 📫 Want to work together? Reach out! jonathanswilcox@gmail.com
 - 📡 www.jswilcox.com
 
+☀️ May the sun shine on you today!
+
 <!---
 jonathanswilcox/jonathanswilcox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
