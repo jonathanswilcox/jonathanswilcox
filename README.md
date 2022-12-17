@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonathanswilcox. Call me Wilcox!
-- 👀 I’m interested in UX Design & tech for good.
+- 👀 I’m interested in UX Design, UX Research, & tech for good.
 - 🌱 I’m currently learning HTML, CSS, and always expanding my UX Design & Research techniques.
 - 💞️ I’m looking to collaborate on tech for good projects.
 - 📫 Want to work together? Reach out! jonathanswilcox@gmail.com
